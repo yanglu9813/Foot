@@ -1,3 +1,11 @@
+.tip:hover:after {
+   content: 'tip';
+   position: absolute;
+   padding: 5px;
+   border: 1px solid gray;
+   background: whitesmoke;
+   font-size: 20px;
+}
 .center {
 	width: 1000px;
 	margin: 0 auto;
